@@ -63,7 +63,7 @@ let resumeData = {
         "name":"Beer Me",
         "imgurl":"images/portfolio/beerme.png",
         "code":"https://github.com/blueink38/beer-me",
-        "deployed": ""
+        "deployed": "https://hey-beer-me.herokuapp.com/"
       },
       {
         "name":"Eat Out Austin",

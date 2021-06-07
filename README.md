@@ -30,4 +30,4 @@ A Personal React SPA portfolio
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)   
 [GITHUB PROFILE](https://github.com/cocobeware83)  
 [EMAIL ME](mailto:corycneel@gmail.com)  
-[Personal Profile](https://cocobeware83.github.io/coryneel/)
+[Personal Profile](https://react-portfolio-coryneel.herokuapp.com/)
